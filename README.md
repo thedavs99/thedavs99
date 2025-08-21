@@ -1,20 +1,47 @@
-<h1 align="center">Hi 👋, I'm David Martinez</h1>
-<h3 align="center">👋 Hi, I’m David Martinez 🎓 Computer Science student 💻 Software developer with experience in Ruby on Rails & SQL Databases 🌍 Fluent in Spanish, English, Italian, and Portuguese 🤝 Skilled at communicating in multicultural environments 🌱 Currently improving my skills in web development and exploring new technologies 💡 Eager to collaborate on innovative tech projects</h3>
+# 👋 Hi, I'm David Martinez!
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thedavs99" alt="thedavs99" /></a> </p>
+![Profile Views](https://komarev.com/ghpvc/?username=thedavs99&style=flat-square)
 
-- 📫 How to reach me **https://www.linkedin.com/in/thedavs99**
+## 🚀 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/thedavs99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thedavs99" height="30" width="40" /></a>
+I'm a passionate Computer Science student and software developer, excited about building impactful solutions and collaborating on innovative tech projects. I bring experience in web development—especially Ruby on Rails and SQL databases—and thrive in multicultural environments, speaking Spanish, English, Italian, and Portuguese. My mission: to keep learning, embrace new technologies, and connect with like-minded creators.
+
+- 💻 Currently diving deeper into web technologies and modern frameworks
+- 🌱 Always learning and exploring new tech stacks
+- 🤝 Love working on diverse, global teams
+- 💬 Ask me about Ruby, Rails, SQL, Python, JavaScript, or web dev in general!
+
+## 🛠️ Technologies & Tools
+
+![Ruby](https://img.shields.io/badge/Ruby-E0115F?style=for-the-badge&logo=ruby&logoColor=white)
+![Rails](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=thedavs99&theme=onestar&column=7"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thedavs99&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thedavs99&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thedavs99&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thedavs99&show_icons=true&locale=en&layout=compact" alt="thedavs99" /></p>
+## 📫 How to reach me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thedavs99&show_icons=true&locale=en" alt="thedavs99" /></p>
+- [LinkedIn](https://www.linkedin.com/in/thedavs99)
+- Email: (Ask me via LinkedIn!)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thedavs99&" alt="thedavs99" /></p>
+## 🌍 Let's Connect
+
+Whether you want to collaborate, chat tech, or just say hi, feel free to reach out! I love meeting new people in the tech world.
+
+---
