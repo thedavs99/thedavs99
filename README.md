@@ -38,7 +38,6 @@ I'm a passionate Computer Science student and software developer, excited about 
 ## 📫 How to reach me
 
 - [LinkedIn](https://www.linkedin.com/in/thedavs99)
-- Email: (Ask me via LinkedIn!)
 
 ## 🌍 Let's Connect
 
